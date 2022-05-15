@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://oushesh.github.io/csb-tp9m6y/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://oushesh.github.io/csb-tp9m6y/static/js/main.26b0896d.chunk.js",
+    "main.js.map": "https://oushesh.github.io/csb-tp9m6y/static/js/main.26b0896d.chunk.js.map",
+    "runtime-main.js": "https://oushesh.github.io/csb-tp9m6y/static/js/runtime-main.d5e38793.js",
+    "runtime-main.js.map": "https://oushesh.github.io/csb-tp9m6y/static/js/runtime-main.d5e38793.js.map",
+    "static/css/2.af4c76d0.chunk.css": "https://oushesh.github.io/csb-tp9m6y/static/css/2.af4c76d0.chunk.css",
+    "static/js/2.a6d185d0.chunk.js": "https://oushesh.github.io/csb-tp9m6y/static/js/2.a6d185d0.chunk.js",
+    "static/js/2.a6d185d0.chunk.js.map": "https://oushesh.github.io/csb-tp9m6y/static/js/2.a6d185d0.chunk.js.map",
+    "index.html": "https://oushesh.github.io/csb-tp9m6y/index.html",
+    "precache-manifest.26fed274bb9609a05104b3b095b3258b.js": "https://oushesh.github.io/csb-tp9m6y/precache-manifest.26fed274bb9609a05104b3b095b3258b.js",
+    "service-worker.js": "https://oushesh.github.io/csb-tp9m6y/service-worker.js",
+    "static/css/2.af4c76d0.chunk.css.map": "https://oushesh.github.io/csb-tp9m6y/static/css/2.af4c76d0.chunk.css.map",
+    "static/css/main.9b1431d8.chunk.css.map": "https://oushesh.github.io/csb-tp9m6y/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.a6d185d0.chunk.js.LICENSE.txt": "https://oushesh.github.io/csb-tp9m6y/static/js/2.a6d185d0.chunk.js.LICENSE.txt",
+    "static/media/pannellum.css": "https://oushesh.github.io/csb-tp9m6y/static/media/sprites.f37aa8ca.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5e38793.js",
+    "static/css/2.af4c76d0.chunk.css",
+    "static/js/2.a6d185d0.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.26b0896d.chunk.js"
+  ]
+}
